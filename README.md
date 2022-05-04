@@ -15,3 +15,6 @@ Prenez garde aux faux tableaux ainsi qu’au terrible garde de nuit robotique.
 ![](./Images/Capture3.PNG)
 ![](./Images/Capture4.PNG)
 ![](./Images/Capture5.PNG)
+
+## Téléchargement
+[Itch.io](https://ludovic330.itch.io/pixel-game-tab)
